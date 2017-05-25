@@ -1,16 +1,16 @@
-# port
+# free-port
 
 Get free port number.
 
 ## Install
 
 ```
-$ go get github.com/70-10/port
+$ go get github.com/70-10/free-port
 ```
 
 ## Usage
 
 ```
-$ port
+$ free-port
 57748
 ```
